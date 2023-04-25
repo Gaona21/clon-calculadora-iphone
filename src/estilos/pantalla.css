@@ -1,0 +1,11 @@
+.pantalla{
+    width: 85%;
+    height: 100px;
+    color: white;
+    font-size: 80px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    padding-right: 11px;
+    flex-wrap: nowrap;
+}
